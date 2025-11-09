@@ -1,0 +1,19 @@
+{
+    "valid_username":"Admin",
+    "valid_password":"admin123",
+
+    "invalid_username":"dafa123",
+    "invalid_password":"dafa194",
+
+    "empty_username":" ",
+    "empty_password":" ",
+
+    "uppercase_username":"ADMIN",
+    "uppercase_password":"ADMIN123",
+
+    "valid_username_space":"Admin ",
+    "valid_password_space":"admin123 ",
+    
+    "usename_special_karakter":"!admin",
+    "password_special_karakter":"!admin123"
+}
